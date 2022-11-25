@@ -1,2 +1,1 @@
-FROM andrasbacsai/private
-CMD sleep 60
+FROM andrasbacsai/private:latest
